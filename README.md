@@ -5,3 +5,4 @@ Crack the Frontend interview question
 3. Debouncing
 4. polyfill for bind methods
 5. event Bubbling and Capturing or Trickling
+6. Event Delegation
