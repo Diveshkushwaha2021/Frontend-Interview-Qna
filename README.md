@@ -6,3 +6,4 @@ Crack the Frontend interview question
 4. polyfill for bind methods
 5. event Bubbling and Capturing or Trickling
 6. Event Delegation
+7. Prototype and prototpal Inheritance 
