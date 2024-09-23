@@ -11,4 +11,8 @@ Crack the Frontend interview question
 9. Set, Map , weakSet and WeakMap
 10. IIFE functions,
 11. High order Fuction
+12. Async and Await
+13. filter
+14. Reduce
+15. 
        
